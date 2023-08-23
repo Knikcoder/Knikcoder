@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Knikcoder
-- 👀 I’m interested in webdesigning
-- 🌱 I’m currently learning javascript and It's related frameworks
-- 💞️ My working partner is My Bae
-- 📫 You can reach me on linked in 
--✍️ We are Writers by choice.
+- 👋 Hi, I’m Kumar Raja
+- 👀 I’m interested in things that works on code
+- 🌱 A Java Full Stack Developer
+- 📫 You can reach me on linked in @kumarrajabammidi
+-✍️ Writer by Passion.
 
 <!---
 Knikcoder/Knikcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
